@@ -1,3 +1,8 @@
+> **Moved:** This project is maintained in [data-analytics-bootcamp-2019/projects/python-challenge](https://github.com/john-stromberg/data-analytics-bootcamp-2019/tree/main/projects/python-challenge).
+> This repository is retained as a historical snapshot.
+
+---
+
 # python-challenge
 
 ## PyBank
